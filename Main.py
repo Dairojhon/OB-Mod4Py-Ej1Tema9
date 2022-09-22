@@ -3,15 +3,20 @@ def main():
     def ingresarPaises():
         paises=(input("Ingrese los paises que desea agergar separados por coma: "))
         listPaises=paises.split(", ")
-        print("La lista con los paises ingresados es:",listPaises)
         return listPaises
 
     def sinRepetir(lista):
         newPaises=list(set(lista))
-        print("la lista con los paises ingresados sin repetir es:",newPaises)
+        return newPaises
+
+    def ordenar(lista):
+        lista.sort()
+        print("La lista ordenada y sin repetir es", lista)
 
     listPaises=ingresarPaises()
-    sinRepetir(listPaises)
+    newPaises=sinRepetir(listPaises)
+    ordenar(newPaises)
+
 
 
 if __name__=="__main__":

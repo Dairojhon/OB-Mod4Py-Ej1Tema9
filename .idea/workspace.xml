@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f9dc47f-6222-48b6-9da2-11614651b01c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OB-Mod4Py-Ej1Tema9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+    <list default="true" id="5f9dc47f-6222-48b6-9da2-11614651b01c" name="Changes" comment="Actualización">
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +46,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663880689305</updated>
     </task>
+    <task id="LOCAL-00001" summary="Actualización">
+      <created>1663882665774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663882665774</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,5 +66,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Actualización" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualización" />
   </component>
 </project>
